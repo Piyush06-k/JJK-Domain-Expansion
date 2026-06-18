@@ -56,7 +56,7 @@ Contributions, ideas, and improvements are welcome.
 
 ##  Support
 
-If you enjoyed this project, consider giving it a star on GitHub!
+If you enjoyed this project, consider giving it a star!
 
 ---
 
