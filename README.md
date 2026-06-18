@@ -39,7 +39,7 @@ github.com/Piyush06-k/jjk-domain-expansion.git
 
 ## ⚠️ Disclaimer
 
-This project is a fan-made tribute inspired by the anime and manga series **Jujutsu Kaisen**. All original characters, names, and concepts belong to their respective creators and copyright holders.
+This project is a fan-made(my) tribute inspired by the anime and manga series **Jujutsu Kaisen**. All original characters, names, and concepts belong to their respective creators and copyright holders.
 
 ---
 
