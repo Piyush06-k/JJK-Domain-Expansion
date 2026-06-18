@@ -3,16 +3,6 @@ Perform iconic cursed techniques using hand gestures in a real-time 3D particle 
 
 An interactive web experience inspired by **Jujutsu Kaisen**, combining real-time hand tracking with stunning 3D particle effects. Perform different hand gestures in front of your webcam to unleash iconic cursed techniques such as **Infinite Void**, **Hollow Purple**, **Malevolent Shrine**, and **Reverse Cursed Technique: Red**.
 
-##  Demo
-
-Add your live demo link here:
-
-```text
-https://your-demo-link.com
-```
-
----
-
 ## Features/Controls
 
 Perform hand gestures in front of your webcam:
@@ -26,16 +16,16 @@ Perform hand gestures in front of your webcam:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Piyush06-k/jjk-domain-expansion.git
+ https://github.com/Piyush06-k/jjk-domain-expansion.git
 ```
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Sound effects and voice lines
 * Additional JJK techniques
