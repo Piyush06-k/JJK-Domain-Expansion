@@ -21,7 +21,7 @@ Perform hand gestures in front of your webcam:
 ### Clone the Repository
 
 ```bash
- https://github.com/Piyush06-k/jjk-domain-expansion.git
+github.com/Piyush06-k/jjk-domain-expansion.git
 ```
 
 
